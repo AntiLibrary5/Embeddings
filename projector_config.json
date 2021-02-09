@@ -6,8 +6,8 @@
         5481,
         400
       ],
-      "tensorPath": "https://drive.google.com/file/d/1uOb9WEmF1STRoxa-TZxj5ZtuGC_2MdsK/view?usp=sharing",
-      "metadataPath": "https://drive.google.com/file/d/1MEyFWfw6OHDzU6KZNSCs4fUe4firkqVJ/view?usp=sharing"
+      "tensorPath": "https://raw.githubusercontent.com/AntiLibrary5/Embeddings/master/inltk_ev_100_vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/AntiLibrary5/Embeddings/master/inltk_ev_100_words.tsv"
     }
   ]
 }
