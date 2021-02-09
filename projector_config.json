@@ -6,7 +6,7 @@
         5481,
         400
       ],
-      "tensorPath": "https://raw.githubusercontent.com/AntiLibrary5/Embeddings/master/inltk_ev_100_vecs.tsv",
+      "tensorPath": "https://media.githubusercontent.com/media/AntiLibrary5/Embeddings/master/inltk_ev_100_vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/AntiLibrary5/Embeddings/master/inltk_ev_100_words.tsv"
     }
   ]
