@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Hindi-inltk",
+      "tensorShape": [
+        5481,
+        400
+      ],
+      "tensorPath": "https://drive.google.com/file/d/1uOb9WEmF1STRoxa-TZxj5ZtuGC_2MdsK/view?usp=sharing",
+      "metadataPath": "https://drive.google.com/file/d/1MEyFWfw6OHDzU6KZNSCs4fUe4firkqVJ/view?usp=sharing"
+    }
+  ]
+}
